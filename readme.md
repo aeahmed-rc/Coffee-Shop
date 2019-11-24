@@ -23,4 +23,4 @@ I would like to implement better CSS techniques , have the completed orders dele
 
 
 
-![coffee]("/css/screenshot.png")
+![coffee]("public/css/screenshot.png")
